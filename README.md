@@ -7,6 +7,7 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 #### Bar chart
 
 Creating a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart displays the 'sample_values' as the values, the 'otu_ids' as the labels, and the 'otu_labels' as the hover text for the bars on the chart.
+
 ![Bar Chart (Horizontal)] (https://github.com/Hanzian/Belly-Button-Biodiversity/blob/main/Images/Horizontal%20Bar.png)
 
 #### Bubble chart
@@ -18,17 +19,19 @@ The 'sample_values' as the y-axis values.
 The 'sample_values' as the marker size.
 The 'otu_ids' as the marker colors.
 The 'otu_labels' as the hover-text values.
+
 ![Buuble Chart] (https://github.com/Hanzian/Belly-Button-Biodiversity/blob/main/Images/Bubble%20Chart.png)
 
 #### Gauge chart
 
 Creating a gauge chart that displays the 'weekly washing frequency' of the belly button value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
+
 ![Gauge Chart] (https://github.com/Hanzian/Belly-Button-Biodiversity/blob/main/Images/Gauge%20Chart.png)
 
 #### Customizing the Dashboard
 
 ##### Three different customizations are added using HTML and bootstrap. 
-- An image is added to jumbotron
+- An image is added to jumbotron.
 ![Bacteria Picture] (https://github.com/Hanzian/Belly-Button-Biodiversity/blob/main/Images/Screenshot%202023-01-09%20at%201.14.10%20PM.png).
 - A background color is added to the webpage
 
