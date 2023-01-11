@@ -42,4 +42,5 @@ ID 940’s data is displayed in the dashboard, and the three charts are working 
 
 ##### When a sample is selected
 The dashboard displays the data in the panel and all three charts according to their requirements.<br/>
-The image below shows the display when ID 1278 is selected:<br/>
+The image below shows the display when ID 969 is selected:<br/>
+![pic](https://github.com/Hanzian/Belly-Button-Biodiversity/blob/main/Screenshot%202023-01-10%20at%209.59.03%20PM.png)
